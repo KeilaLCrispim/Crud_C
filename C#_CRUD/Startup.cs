@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using C__CRUD.Models.Contexto;
+using C__CRUD.Controllers;
+using C__CRUD.Models.Entidades;
 
 namespace C__CRUD
 {

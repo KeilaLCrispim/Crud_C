@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\C#_CRUD.csproj": {}
+    "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\C#_CRUD.csproj": {
+    "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\C#_CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj",
         "projectName": "C#_CRUD",
-        "projectPath": "C:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\C#_CRUD.csproj",
+        "projectPath": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\obj\\",
+        "outputPath": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",

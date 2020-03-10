@@ -6,11 +6,14 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using C__CRUD.Models.Contexto;
 using C__CRUD.Models.Entidades;
+using Microsoft.Data.SqlClient;
 
 namespace C__CRUD.Controllers
 {
     public class UsuariosController : Controller
     {
+        Conexao conexao = new Conexao();
+        SqlCommand cmd = new SqlCommand();
 
         private readonly Contexto _contexto;
 
@@ -21,8 +24,11 @@ namespace C__CRUD.Controllers
 
         public IActionResult Index()
         {
+            //cmd.Connection = conexao.Conectar();
+            //cmd.CommandText = "insert into Usuario (Nome, Email, Senha) values('Danilo', 'Ahrkan@Ahrkan', '1234')";
+            //cmd.ExecuteNonQuery(); // Esse comando manda a informação para o SQL Serve
+            //conexao.Desconctar();
             var lista = _contexto.Usuario.ToList();
-            CarregaTipoUsuario();
             return View(lista);
         }
 
@@ -30,7 +36,6 @@ namespace C__CRUD.Controllers
         public IActionResult Create()
         {
             var usuario = new Usuario();
-            CarregaTipoUsuario();
             return View(usuario);
         }
 
@@ -44,8 +49,6 @@ namespace C__CRUD.Controllers
 
                 return RedirectToAction("Index");
             }
-
-            CarregaTipoUsuario();
             return View(usuario);
         }
 
@@ -53,8 +56,6 @@ namespace C__CRUD.Controllers
         public IActionResult Edit(int Id)
         {
             var usuario = _contexto.Usuario.Find(Id);
-
-            CarregaTipoUsuario();
             return View(usuario);
         }
 
@@ -70,7 +71,6 @@ namespace C__CRUD.Controllers
             }
             else
             {
-                CarregaTipoUsuario();
                 return View(usuario);
             }
         }
@@ -79,7 +79,6 @@ namespace C__CRUD.Controllers
         public IActionResult Delete(int Id)
         {
             var usuario = _contexto.Usuario.Find(Id);
-            CarregaTipoUsuario();
             return View(usuario);
         }
 
@@ -101,27 +100,11 @@ namespace C__CRUD.Controllers
         public IActionResult Details(int Id)
         {
             var usuario = _contexto.Usuario.Find(Id);
-            CarregaTipoUsuario();
             return View(usuario);
         }
 
         /// <summary>
         /// 
         /// </summary>
-        public void CarregaTipoUsuario()
-        {
-            var ItensTipoUsuario = new List<SelectListItem>
-            {
-                new SelectListItem{ Value ="1", Text ="Administrador"},
-                 new SelectListItem{ Value ="2", Text ="Técnico"},
-                  new SelectListItem{ Value ="3", Text ="Usuário Normal"}
-            };
-
-            ViewBag.TiposUsuario = ItensTipoUsuario;
-        }
-
-
-
-
     }
 }

@@ -8314,11 +8314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\C#_CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj",
       "projectName": "C#_CRUD",
-      "projectPath": "c:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\C#_CRUD.csproj",
+      "projectPath": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\danil\\Desktop\\CRUD\\C#_CRUD\\obj\\",
+      "outputPath": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
