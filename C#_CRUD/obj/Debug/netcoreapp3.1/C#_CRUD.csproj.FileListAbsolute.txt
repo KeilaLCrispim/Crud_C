@@ -285,7 +285,6 @@ C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\U
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
-C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\C#_CRUD.RazorTargetAssemblyInfo.cache
@@ -294,3 +293,4 @@ C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\C#_CRUD.Views
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\C#_CRUD.csproj.CopyComplete
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\C#_CRUD.dll
 C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\C#_CRUD.pdb
+C:\Users\danil\Desktop\CRUD\Crud_C\C#_CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
