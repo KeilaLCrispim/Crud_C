@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj": {}
+    "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj": {
+    "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj",
+        "projectUniqueName": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj",
         "projectName": "C#_CRUD",
-        "projectPath": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj",
-        "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\obj\\",
+        "projectPath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj",
+        "packagesPath": "/home/danilo-oliveira/.nuget/packages/",
+        "outputPath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/danilo-oliveira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     }

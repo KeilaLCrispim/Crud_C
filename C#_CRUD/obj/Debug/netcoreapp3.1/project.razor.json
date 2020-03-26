@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\C#_CRUD.csproj",
+  "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,63 +20521,58 @@
   "RootNamespace": "C__CRUD",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Usuarios\\Delete.cshtml",
-      "TargetPath": "Views\\Usuarios\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Usuarios\\Edit.cshtml",
-      "TargetPath": "Views\\Usuarios\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Usuarios\\Details.cshtml",
-      "TargetPath": "Views\\Usuarios\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\_ViewStart.cshtml",
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Shared\\Error.cshtml",
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Usuarios/Create.cshtml",
+      "TargetPath": "Views\\Usuarios\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Usuarios/Edit.cshtml",
+      "TargetPath": "Views\\Usuarios\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Usuarios\\Index.cshtml",
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Usuarios/Index.cshtml",
       "TargetPath": "Views\\Usuarios\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danil\\Desktop\\CRUD\\Crud_C\\C#_CRUD\\Views\\Usuarios\\Create.cshtml",
-      "TargetPath": "Views\\Usuarios\\Create.cshtml",
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Usuarios/Delete.cshtml",
+      "TargetPath": "Views\\Usuarios\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
