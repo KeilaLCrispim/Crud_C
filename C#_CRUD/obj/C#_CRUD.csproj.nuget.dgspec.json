@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj": {}
+    "C:\\Users\\User\\Desktop\\crud\\Crud_C\\c#_crud\\C#_CRUD.csproj": {}
   },
   "projects": {
-    "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj": {
+    "C:\\Users\\User\\Desktop\\crud\\Crud_C\\c#_crud\\C#_CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\crud\\Crud_C\\c#_crud\\C#_CRUD.csproj",
         "projectName": "C#_CRUD",
-        "projectPath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/C#_CRUD.csproj",
-        "packagesPath": "/home/danilo-oliveira/.nuget/packages/",
-        "outputPath": "/home/danilo-oliveira/Documentos/BackEnd/MeusProjetosC#/GitHub/Crud_C/C#_CRUD/obj/",
+        "projectPath": "C:\\Users\\User\\Desktop\\crud\\Crud_C\\c#_crud\\C#_CRUD.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\crud\\Crud_C\\c#_crud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/danilo-oliveira/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
